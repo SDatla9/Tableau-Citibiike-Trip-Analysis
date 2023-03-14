@@ -1,7 +1,6 @@
 # Tableau-Citibike-Trip-Analysis
 NYC CITI BIKE ANALYSIS
 
-
 Story can be found here: 
 https://public.tableau.com/app/profile/sandhya.datla/viz/CitibikeAnalysisDashboard_16787616524420/GeoAnalysis1?publish=yesSLIDE 1:
 
